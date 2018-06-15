@@ -122,7 +122,6 @@ For I = 7 To 98 Step 1 'シートを走査するための繰り返し文
             
            
      
-     
      End If
      
      If c > 8 Then
